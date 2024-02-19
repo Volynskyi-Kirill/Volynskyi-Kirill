@@ -53,6 +53,12 @@
       height="40"
     />&nbsp;
 <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"
+      title="jest"
+      width="40"
+      height="40"
+    />&nbsp;
+<img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
       title="Mongo DB"
       width="40"
