@@ -14,7 +14,7 @@
 
 ### About me
 
-- 🌱 I’m currently learning **Microservices, SQL database**<!-- - 📄 Know about my experiences [CV](cv-link) -->
+<!-- - 🌱 I’m currently learning **Microservices, SQL database** - 📄 Know about my experiences [CV](cv-link) -->
 - 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/kyrylo-volynskyi-990831247/), [email](mailto:kirill108bol@gmail.com)
 - 🌍 I speak English | Ukrainian | Russia
 
