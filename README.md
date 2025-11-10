@@ -1,6 +1,6 @@
 <div id="header" align="center">
 		<h1>Hi there, I'm Kyrylo</h1>
-		<h3>Full-stack developer (NestJS | ReactJS) </h3>
+		<h3>Full-stack developer</h3>
 </div>
 
 <div id="socials" align="center">
@@ -114,3 +114,16 @@
   width="40"
   height="40"
 />&nbsp;
+
+---
+
+### 🧠 42 Codam Projects
+
+Check out my **C projects** from [Codam / 42 Network](https://www.codam.nl/) —  
+where I dive deep into **low-level programming**, **algorithms**, and **UNIX systems**.
+
+<div align="center">
+  <a href="https://github.com/42-Codam-Kyrylo">
+    <img src="https://img.shields.io/badge/→_Explore_42_Projects-000000?style=for-the-badge&logo=github&logoColor=white" alt="42 Codam Projects"/>
+  </a>
+</div>
