@@ -45,6 +45,10 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40" alt="PostgreSQL" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40" alt="MongoDB" /></td>
   </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" title="Go" width="40" height="40" alt="Go" /></td>
+    <td><img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" title="Gin" height="40" alt="Gin" /></td>
+  </tr>
 </table>
 
 <!-- Overall -->
