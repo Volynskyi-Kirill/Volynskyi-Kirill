@@ -24,96 +24,38 @@
 
 <!-- Front-end -->
 
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-  title="JavaScript"
-  width="40"
-  height="40"
-/>&nbsp;
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-  title="TypeScript"
-  width="40"
-  height="40"
-/>&nbsp;
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-  title="React"
-  width="40"
-  height="40"
-/>&nbsp;
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
-  title="Next.js"
-  width="40"
-  height="40"
-/>&nbsp;
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg"
-  title="Redux"
-  width="40"
-  height="40"
-/>&nbsp;
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-  title="HTML5"
-  width="40"
-  height="40"
-/>&nbsp;
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-  title="CSS3"
-  width="40"
-  height="40"
-/>&nbsp;
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40" alt="JavaScript" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40" alt="TypeScript" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" height="40" alt="React" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" title="Next.js" width="40" height="40" alt="Next.js" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" title="Redux" width="40" height="40" alt="Redux" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40" alt="HTML5" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40" alt="CSS3" /></td>
+  </tr>
+</table>
 
 <!-- Back-end -->
 
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"
-  title="NestJS"
-  width="40"
-  height="40"
-/>&nbsp;
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-  title="Node.js"
-  width="40"
-  height="40"
-/>&nbsp;
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-  title="PostgreSQL"
-  width="40"
-  height="40"
-/>&nbsp;
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
-  title="MongoDB"
-  width="40"
-  height="40"
-/>&nbsp;
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" title="NestJS" width="40" height="40" alt="NestJS" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" height="40" alt="Node.js" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40" alt="PostgreSQL" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40" alt="MongoDB" /></td>
+  </tr>
+</table>
 
 <!-- Overall -->
 
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"
-  title="Git"
-  width="40"
-  height="40"
-/>&nbsp;
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
-  title="npm"
-  width="40"
-  height="40"
-/>&nbsp;
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"
-  title="Jest"
-  width="40"
-  height="40"
-/>&nbsp;
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="Git" width="40" height="40" alt="Git" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" width="40" height="40" alt="npm" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" title="Jest" width="40" height="40" alt="Jest" /></td>
+  </tr>
+</table>
 
 ---
 
