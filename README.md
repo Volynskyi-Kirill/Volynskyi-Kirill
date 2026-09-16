@@ -14,9 +14,10 @@
 
 ### About me
 
-- 🌱 I’m currently learning **C** and **Golang**
-- 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/kyrylo-volynskyi-990831247/), [email](mailto:kirill108bol@gmail.com)
-- 🌍 I speak English | Ukrainian | Russia
+- 🎓 Student at [Codam / 42 Network](#-42-codam-projects)
+- 💻 I write code in **Go, TypeScript, and Python**, and build things fast by pairing with modern AI agents like **Claude Code** & **Antigravity CLI** (using <a href="https://www.onorca.dev/" target="_blank">Orca</a> for agent orchestration)
+- 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/kyrylo-volynskyi-990831247/) or [email](mailto:kirill108bol@gmail.com)
+- 🌍 I speak English | Ukrainian | Russian
 
 ---
 
