@@ -61,6 +61,11 @@
   </tr>
 </table>
 
+### 🌟 Featured Personal Projects
+
+- <a href="https://github.com/Volynskyi-Kirill/dots" target="_blank">**Dots Game**</a> `[Golang, Next.js, WebSockets, Canvas]` — A real-time multiplayer strategic game with classic rules. Built on a clean architecture separating the Go-based BFS game logic backend from the Next.js responsive frontend.
+- <a href="https://github.com/Volynskyi-Kirill/Eventy-Frontend" target="_blank">**Eventy**</a> `[Next.js, TypeScript, NestJS, PostgreSQL]` — A modern full-stack platform for event discovery and organization. Features a dual-role system, OAuth integration, interactive multi-step creation forms, and an organizer dashboard.
+
 ---
 
 ### 🧠 42 Codam Projects
