@@ -65,11 +65,16 @@
 
 ### 🧠 42 Codam Projects
 
-Check out my **C projects** from [Codam / 42 Network](https://www.codam.nl/) —  
-where I dive deep into **low-level programming**, **algorithms**, and **UNIX systems**.
+Check out my projects from <a href="https://www.codam.nl/" target="_blank">Codam / 42 Network</a> — a rigorous peer-to-peer coding school where I dive deep into **C**, **Python**, **algorithms**, and **systems programming** (no teachers, no classes, just projects).
+
+**🌟 Featured Work:**
+
+- <a href="https://github.com/42-Codam-Kyrylo/Codexion" target="_blank">**Codexion**</a> `[C]` — A multi-threaded concurrency simulation using POSIX threads and custom scheduling to prevent deadlocks.
+- <a href="https://github.com/42-Codam-Kyrylo/Fly-in" target="_blank">**Fly-in**</a> `[Python]` — An object-oriented drone routing system simulating constrained network pathfinding.
 
 <div align="center">
-  <a href="https://github.com/42-Codam-Kyrylo">
-    <img src="https://img.shields.io/badge/→_Explore_42_Projects-000000?style=for-the-badge&logo=github&logoColor=white" alt="42 Codam Projects"/>
+  <br>
+  <a href="https://github.com/42-Codam-Kyrylo" target="_blank">
+    <img src="https://img.shields.io/badge/→_Explore_All_42_Projects-000000?style=for-the-badge&logo=github&logoColor=white" alt="Explore 42 Projects"/>
   </a>
 </div>
