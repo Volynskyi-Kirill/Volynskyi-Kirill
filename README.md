@@ -75,6 +75,7 @@ Check out my projects from <a href="https://www.codam.nl/" target="_blank">Codam
 
 **🌟 Featured Work:**
 
+- <a href="https://github.com/42-Codam-Kyrylo/call-me-maybe" target="_blank">**Call Me Maybe**</a> `[Python, AI/LLMs]` — A function-calling tool translating natural language prompts into valid JSON using constrained decoding with small local LLM.
 - <a href="https://github.com/42-Codam-Kyrylo/Codexion" target="_blank">**Codexion**</a> `[C]` — A multi-threaded concurrency simulation using POSIX threads and custom scheduling to prevent deadlocks.
 - <a href="https://github.com/42-Codam-Kyrylo/Fly-in" target="_blank">**Fly-in**</a> `[Python]` — An object-oriented drone routing system simulating constrained network pathfinding.
 
